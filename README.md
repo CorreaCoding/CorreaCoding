@@ -1,6 +1,6 @@
 ### Hello! I am Amanda Corrêa 🖱
 
- 🌱 I’m currently studying at Generation Brazil Bootcamp
+
  
  ##
  
