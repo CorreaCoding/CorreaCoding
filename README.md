@@ -1,4 +1,4 @@
-### Hello! I am Amanda Corrêa 🖱
+### Hello! I am Amanda 🖱
 
 
  
