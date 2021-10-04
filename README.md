@@ -1,5 +1,5 @@
-### Hello! I am Amanda 🖱
-# Im'm 19 years old and currently studying about JavaScript
+## Hello! I am Amanda 🖱
+### I'm 19 years old and currently studying JavaScript
 
  
  ##
