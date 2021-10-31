@@ -1,8 +1,5 @@
-## Hello! I am Amanda 🖱
-### I'm 19 years old and currently studying JavaScript
+## Hello! I am Amanda
 
- 
- ##
  
   <div>
   <a href="https://github.com/CorreaCoding">
@@ -19,6 +16,7 @@
   <img align="center" alt="Amanda-Java" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Amanda-MySQL" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Amanda-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+ <img align="center" alt="Amanda-CSharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
   ##
