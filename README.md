@@ -1,5 +1,5 @@
-## Hello! I am Amanda
-
+### Hello! I'm CorreaCoding
+### 🎓 Generation Brasil
  
   <div>
   <a href="https://github.com/CorreaCoding">
