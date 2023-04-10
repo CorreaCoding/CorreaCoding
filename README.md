@@ -2,11 +2,11 @@
 ### 🎓 Generation Brasil
 ### 🎓 Análise e Desenvolvimento de Sistemas
  
-  <div>
+<!--   <div>
   <a href="https://github.com/CorreaCoding">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CorreaCoding&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorreaCoding&layout=compact&langs_count=7&theme=radical"/>
-</div>
+</div> -->
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Amanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
