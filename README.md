@@ -33,15 +33,16 @@
 
 <h3 align="center"> <strong>Languages and Tools</strong></p>
           
-<img align="center" alt="Python" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
+<img align="center" alt="Python" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
 <img align="center" alt="AWS" height="100" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 <img align="center" alt="Terraform" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
 <img align="center" alt="Git" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 <img align="center" alt="Bash" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
-<img align="center" alt="Linux" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
-<img align="center" alt="HTML 5" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-<img align="center" alt="CSS 3" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-<img align="center" alt="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Linux" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
+<img align="center" alt="Java" height="60" src="https://github.com/user-attachments/assets/4b28e077-0439-4f65-8806-69fbb6cf2763" />
+<img align="center" alt="Spring" height="60" src="https://github.com/user-attachments/assets/b21722a3-14c8-40dd-9a9b-ba3702ac2afe" />
+
+
 
 </div>
 
