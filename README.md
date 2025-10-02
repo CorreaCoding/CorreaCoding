@@ -38,8 +38,8 @@
 <h3 align="center"> <strong>Languages and Tools</strong></p>
           
 <img align="center" alt="Python" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
-<img align="center" alt="AWS" height="80" src="https://github.com/user-attachments/assets/ae7c274c-94ee-4f71-bf53-b6077fe55131" />
-<img align="center" alt="Terraform" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
+<img align="center" alt="AWS" height="60" src="https://github.com/user-attachments/assets/ae7c274c-94ee-4f71-bf53-b6077fe55131" />
+<img align="center" alt="Terraform" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
 <img align="center" alt="Git" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 <img align="center" alt="Bash" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
 <img align="center" alt="Linux" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
