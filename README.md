@@ -17,14 +17,14 @@
 
 <div align="center" style="display: inline_block">
             <a href="https://www.credly.com/badges/a210acf1-676e-4cea-97bc-e6eacb5be141/public_url" target="_blank"> <img align="center" alt="https://www.credly.com/badges/20eb6bf0-d610-4d67-a2ec-b525e90cca8c"  height="90" src="https://github.com/user-attachments/assets/d6c3607a-6e7c-4826-94cd-117e5faa57a8"> </a>
-                    <a href="https://learn.microsoft.com/api/credentials/share/pt-br/correacoding/26C47A3FAE8B98DF?sharingId=10A7AAB122DD9E4" target="_blank"> <img align="center" height="90" alt="image" src="https://github.com/user-attachments/assets/eaf4a6eb-2d78-4bc4-a587-2ba8b4977522" /></a>
-          <a href="https://www.credly.com/badges/d2ef949a-1722-4569-ad6f-6859bd130192/public_url" target="_blank"> <img align="center" alt="https://www.credly.com/badges/d2ef949a-1722-4569-ad6f-6859bd130192/public_url"  height="90" 
-                                                                                                              src="https://github.com/user-attachments/assets/3ae5218b-f690-4e05-a0f6-cb5ab0ea96f2" /></a>
+            <a href="https://www.credly.com/badges/d2ef949a-1722-4569-ad6f-6859bd130192/public_url" target="_blank"> <img align="center" alt="https://www.credly.com/badges/d2ef949a-1722-4569-ad6f-6859bd130192/public_url"  height="90" src="https://github.com/user-attachments/assets/3ae5218b-f690-4e05-a0f6-cb5ab0ea96f2"/></a>                                                                                
+          <a href="https://www.credly.com/badges/21115fd8-163a-4899-8323-70099bc626dd/public_url" target="_blank"> <img align="center" height="90" alt="image" src="https://github.com/user-attachments/assets/79417b53-ce66-4cdb-b8d6-305f38164d39"></a>
+
 </div>
+          <a href="https://learn.microsoft.com/api/credentials/share/pt-br/correacoding/26C47A3FAE8B98DF?sharingId=10A7AAB122DD9E4" target="_blank"> <img align="center" height="90" alt="image" src="https://github.com/user-attachments/assets/eaf4a6eb-2d78-4bc4-a587-2ba8b4977522" /></a>
           <a href="https://learn.microsoft.com/api/credentials/share/pt-br/correacoding/2F431E50CBE5CE6D?sharingId=10A7AAB122DD9E4" target="_blank"> <img align="center" height="90" alt="image" src="https://github.com/user-attachments/assets/297aa081-6869-448f-bbe2-9c3d9ee0bbe1"/></a>
           <a href="https://learn.microsoft.com/api/credentials/share/en-us/correacoding/E96B7D54AAFEC911?sharingId=10A7AAB122DD9E4" target="_blank"> <img align="center" height="90" alt="image" src="https://github.com/user-attachments/assets/983a62bb-b98c-4016-9521-67394ac8f551" /></a>
           <a href="https://learn.microsoft.com/api/credentials/share/en-us/correacoding/9EA16B73A159E800?sharingId=10A7AAB122DD9E4" target="_blank"> <img align="center" height="90" alt="image" src="https://github.com/user-attachments/assets/ce02e24b-a692-4172-bfc2-8a3394ae4307" /></a>
-          <a href="https://www.credly.com/badges/21115fd8-163a-4899-8323-70099bc626dd/public_url" target="_blank"> <img align="center" height="90" alt="image" src="https://github.com/user-attachments/assets/79417b53-ce66-4cdb-b8d6-305f38164d39"/></a>
             
 
 <p align="center"> 
